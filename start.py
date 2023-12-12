@@ -1,12 +1,12 @@
 def main():
 
     def part1():
-        with open('test?.txt') as file:
+        with open('test10.txt') as file:
             ...
         print(f'Part 1: ')
 
     def part2():
-        with open('test?.txt') as file:
+        with open('test10.txt') as file:
             ...
         print(f'Part 2: ')
 
